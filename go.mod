@@ -12,7 +12,7 @@ require (
 	github.com/huseyinbabal/lru-cache v0.0.3
 	github.com/spf13/viper v1.9.0
 	google.golang.org/grpc v1.42.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.0
 	k8s.io/api v0.23.1
 	k8s.io/apimachinery v0.23.1
 	k8s.io/client-go v0.23.1
